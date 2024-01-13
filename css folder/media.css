@@ -1,0 +1,112 @@
+@media(max-width: 600px){
+    /* home */
+    #banner{
+        width: 100%;
+    }
+    .banner-title{
+        position: absolute;
+    top: -257px;
+    font-size: 2rem;
+    }
+    .banner-text{
+        position: absolute;
+        top: -170px;
+        font-size: 15px;
+    }
+    .banner-img{
+        width: 100%;
+    }
+    .banner-play{
+        position: absolute;
+        top: -70px;
+        margin-left: 47px;
+        font-size: 15px;
+        color: #fff;
+    }
+    .play-btn{
+        font-size: 50px;
+    }
+    /* story */
+    .backdrop{
+        font-size: 4rem;
+        position: absolute;
+        top: -40px;
+    }
+    .story-subtitle{
+       font-size: 12px;
+       position: absolute;
+       top: -10px;
+    }
+    .story-title{
+        position: absolute;
+        top: 8px;
+    }
+    .story-text{
+        position: absolute;
+        top: 50px;
+    }
+    .story-img{
+        position: absolute;
+        top: 350px;
+        right: 5px;
+    }
+    /* trips */
+    .backdrop-jrny{
+        font-size: 4rem;
+        left: 30px;
+        top: 700px;
+    }
+    .jrny-subtitle{
+        position: absolute;
+        top: 685px;
+        left: 80px;
+    }
+    .jrny-title{
+        font-size: 20px;
+        top: 750px;
+        left: 36px;
+    }
+    .jrny-card-items{
+        padding-top: 200%;
+    }
+    /* team */
+    .backdrop-team{
+        left: 51px;
+        font-size: 3.5rem;
+    }
+    .team-subtitle{
+        font-size: 14px;
+        line-height: 4.5;
+    }
+    .team-title{
+        font-size: 19px;
+        left: 130px;
+    }
+    .backdrop-fback{
+        left: 25px;
+        font-size: 3rem;
+    }
+    .fback-subtitle{
+        left: 135px;
+        top: 10px;
+        font-size: 20px;
+    }
+    .fback-title{
+        left: 99px;
+        font-size: 22px;
+        top: 35px;
+    }
+    /* blog */
+    .backdrop-blog{
+        font-size: 5rem;
+        left: 100px;
+    }
+    .blog-subtitle{
+        font-size: 20px;
+        left: 160px;
+    }
+    .blog-title{
+        font-size: 27px;
+        left: 135px;
+    }
+}
